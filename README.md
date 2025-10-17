@@ -5,7 +5,7 @@ Goal: clean design, WCAG-minded UI, and a developer-friendly setup that’s easy
 
 ---
 
-## 🧱 Tech Stack (so far)
+## Tech Stack (so far)
 
 - **Next.js (App Router)** + **TypeScript**
 - **pnpm** via **Corepack** (package manager)
